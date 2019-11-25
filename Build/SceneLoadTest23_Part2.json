@@ -1,0 +1,16 @@
+{
+"companyName": "TwistedFantasyExperiences",
+"productName": "LuckyStrikeEntertainment_VirtualTour",
+"productVersion": "0.1",
+"dataUrl": "SceneLoadTest23_Part2.data.unityweb",
+"wasmCodeUrl": "SceneLoadTest23_Part2.wasm.code.unityweb",
+"wasmFrameworkUrl": "SceneLoadTest23_Part2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0b6"
+}
